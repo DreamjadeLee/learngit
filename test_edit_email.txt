@@ -1,0 +1,2 @@
+git config --global --edit
+change email = limengyao007@gmail.com

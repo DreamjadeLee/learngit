@@ -6,3 +6,4 @@ understand stage & work dict &master
 create a new branch is quick
 creating a new branch is quick & simple
 merge with --no-ff
+git stash

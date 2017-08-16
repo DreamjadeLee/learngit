@@ -8,3 +8,4 @@ creating a new branch is quick & simple
 merge with --no-ff
 git stash
 git merge test
+test gitee $ github
